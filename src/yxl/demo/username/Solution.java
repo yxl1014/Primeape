@@ -1,4 +1,4 @@
-package yxl.demo;
+package yxl.demo.username;
 import java.io.*;
 
 class Solution {
