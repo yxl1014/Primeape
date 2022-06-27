@@ -36,6 +36,8 @@ public class Solution {
                 case 2:
                     int bi = Integer.parseInt(ss[1]) - 1;
                     writer.write(B[bi] + "\n");
+                default:
+                    break;
             }
         }
 
